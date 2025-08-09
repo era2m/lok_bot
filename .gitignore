@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files000
+=======
+# Byte-compiled / optimized / DLL files0
+>>>>>>> af1782faf0af144f83354f44e1d091f241edbe1f
 __pycache__/
 *.py[codz]
 *$py.class
